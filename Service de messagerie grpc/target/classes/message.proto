@@ -1,0 +1,14 @@
+syntax = "proto3";
+option java_package = "com.fares.grpc";
+package messaging;
+
+message Message {
+    string sender = 1;
+    string receiver = 2;
+    string text = 3;
+}
+
+service MessagingService {
+    rpc SendMessage(Message) returns (Message);
+    rpc GetMessagesForUser(Message) returns (stream Message);
+}

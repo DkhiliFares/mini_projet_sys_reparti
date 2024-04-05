@@ -1,0 +1,16 @@
+messaging\MessagingServiceGrpc$1.class
+messaging\MessageOuterClass$1.class
+messaging\MessageOuterClass$Message$1.class
+messaging\MessageOuterClass$Message$Builder.class
+messaging\MessagingServiceGrpc$MessagingServiceMethodDescriptorSupplier.class
+messaging\MessageOuterClass$MessageOrBuilder.class
+messaging\MessagingServiceGrpc$MessagingServiceBlockingStub.class
+messaging\MessagingServiceGrpc.class
+messaging\MessageOuterClass$Message.class
+messaging\MessageOuterClass.class
+messaging\MessagingServiceGrpc$MessagingServiceFutureStub.class
+messaging\MessagingServiceGrpc$MessagingServiceFileDescriptorSupplier.class
+messaging\MessagingServiceGrpc$MethodHandlers.class
+messaging\MessagingServiceGrpc$MessagingServiceBaseDescriptorSupplier.class
+messaging\MessagingServiceGrpc$MessagingServiceImplBase.class
+messaging\MessagingServiceGrpc$MessagingServiceStub.class
